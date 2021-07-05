@@ -11,7 +11,7 @@ import SwiftUI
 struct playstationStoreCloneApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Stardew()
         }
     }
 }
